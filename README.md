@@ -87,5 +87,7 @@ args 是一个命令行参数解析后得到的 Namespace 对象，其中包含�
 
 ![image](https://user-images.githubusercontent.com/128702185/233389446-fdff74cd-af59-4acc-b247-254a2c505bc2.png)
 
-![image](https://user-images.githubusercontent.com/128702185/233391021-2cc26f3f-9df1-4a5d-bf0e-b70160807cbe.png)
+    python train.py --epochs 10 --save_station 1 --model ResNet34
+
+![image](https://user-images.githubusercontent.com/128702185/233398773-a04211b3-f8d7-4712-87fa-e680aa9c7df9.png)
 
